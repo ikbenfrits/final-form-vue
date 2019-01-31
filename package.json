@@ -1,7 +1,7 @@
 {
   "name": "final-form-vue",
   "version": "0.1.0",
-  "description": "🏁 Framework agnostic, high performance, subscription-based form state management for Vue.js",
+  "description": "🏁 Framework agnostic, high performance, subscription-based form state management for Vue",
   "main": "./dist/final-form-vue.common.js",
   "scripts": {
     "build": "vue-cli-service build --target lib --name final-form-vue ./src/index.js",
