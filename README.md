@@ -2,6 +2,8 @@
 
 ![Final Form Vue](banner.png)
 
+[![Build Status](https://travis-ci.org/Ikbenfrits/final-form-vue.svg?branch=master)](https://travis-ci.org/Ikbenfrits/final-form-vue)
+
 ✅ Zero dependencies
 
 ✅ Only peer dependencies: Vue and
